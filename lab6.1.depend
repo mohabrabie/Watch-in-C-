@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1607083550 source:c:\users\mohab\desktop\lab6.1\main.cpp
+	<iostream>
+	<graphics.h>
+	<windows.h>
+
